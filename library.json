@@ -1,0 +1,21 @@
+{
+  "name": "UartRS485",
+  "version": "1.0.0",
+  "description": "Interrupt-driven RS485 UART receiver with classification for ESP32 (Arduino).",
+  "keywords": ["uart", "rs485", "esp32", "interrupt", "parser"],
+  "authors": [
+    {
+      "name": "Andrew Timofeev",
+      "email": "andrew.timofeev@gmail.com",
+      "url": "https://github.com/MetaMorpheus",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MetaMorpheus/UartRS485.git"
+  },
+  "frameworks": ["arduino"],
+  "platforms": ["espressif32"]
+}
